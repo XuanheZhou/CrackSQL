@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="#-demo">Demo</a> •
+  [Demo](https://vimeo.com/1071435762?share=copy) •
   <a href="#-quick-start">Quick Start</a> •
   <a href="#-feature-extension">Feature Extension</a> • 
   <a href="#-faq">FAQ</a> •  
